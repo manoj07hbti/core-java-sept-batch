@@ -28,7 +28,9 @@ public class DemoVariables {
 
         System.out.print("Printing salary "+salary);
 
-
+        System.out.println("GIT DEMO");
+        System.out.println("GIT DEMO");
+        String var="Hello";
 
     }
 
