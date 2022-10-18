@@ -24,7 +24,7 @@ public class DemoIf {
           System.out.println("Person is very tall");
       }
 
-      if(height<6){
+      if(height<6 && height>5){
           System.out.println("Person is Medium tall");
       }
 
