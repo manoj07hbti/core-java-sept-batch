@@ -25,6 +25,7 @@ public class DemoArray {
 
         }
 
+
         //ADVANCED FOR LOOP
         //TODO  for (Datatype varName : Array/Collection){ CODE }
 

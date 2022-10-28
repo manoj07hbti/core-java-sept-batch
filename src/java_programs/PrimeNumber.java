@@ -4,7 +4,7 @@ public class PrimeNumber {
 
     public static void main(String[] args) {
 
-        int number=37;
+        int number=16;
 
         boolean flag=true;
 
