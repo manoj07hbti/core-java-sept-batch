@@ -1,4 +1,4 @@
-package class_object;
+package class_object1;
 
 public class Country {
 
