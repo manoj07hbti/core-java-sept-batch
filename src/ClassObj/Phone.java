@@ -4,6 +4,7 @@ public class Phone {
 
 
 
+
         String brand="Mi";
         String model="vi20";
         String GB="500";
@@ -13,10 +14,7 @@ public class Phone {
         public static void main(String[]args){
 
                 Phone obj=new Phone();
-                System.out.println("printing the phone model:"+obj.brand);
-                System.out.println("Printing the phone model:"+obj.model);
-                System.out.println("Printing the phone GB:"+obj.colour);
-                System.out.println("printing the phone ram:"+obj.ram);
+                System.out.println("printing the phone name and brand:"+obj.brand +"ram:"+obj.ram +"GB:"+obj.GB +"colour:"+obj.colour+":" );
 
 
 
