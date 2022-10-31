@@ -1,6 +1,6 @@
 package class_object1;
 
-public class Engineer {
+public class Engineer1 {
 
     // Todo : Engineer properties
     String name;
@@ -8,7 +8,7 @@ public class Engineer {
     String dpt;
 
     // Todo : Parameter Constructor
-    public Engineer(String name, int age, String dpt) {
+    public Engineer1(String name, int age, String dpt) {
         this.name = name;
         this.age = age;
         this.dpt = dpt;
@@ -19,7 +19,7 @@ public class Engineer {
         // Todo : create object by the constructor
 
         //Todo Syntax : ClassName objectName = new ClassName(Parameter1,Parameter2,Parameter,.......);
-                        Engineer engineer = new Engineer("Rahul",34,"IT");
+                        Engineer1 engineer = new Engineer1("Rahul",34,"IT");
                         System.out.println("Engineer name is : " + engineer.name);
                         System.out.println("Age is : " + engineer.age);
                         System.out.println("Department name is : " + engineer.dpt);
