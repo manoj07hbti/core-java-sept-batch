@@ -21,7 +21,11 @@ public class Book {
         System.out.println("Printing book Pages "+obj.pages);
         System.out.println("Printing book Writer name "+obj.wrtierName);
 
+        Book obj2= new Book();
 
+        System.out.println("Printing book name "+obj2.name);
+        System.out.println("Printing book Pages "+obj2.pages);
+        System.out.println("Printing book Writer name "+obj2.wrtierName);
     }
 
 
