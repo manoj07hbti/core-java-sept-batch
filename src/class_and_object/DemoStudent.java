@@ -7,7 +7,11 @@ public class DemoStudent {
     int rollNo;
     String section;
 
-// parameterized constructor
+    // default constructor
+    public DemoStudent() {
+    }
+
+    // parameterized constructor
 
     public DemoStudent(String name, int rollNo, String section) {
         this.name = name;
