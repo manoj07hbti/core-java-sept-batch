@@ -9,6 +9,7 @@ public class Bank_account {
         this.name = name;
         this.accountNum = accountNum;
         this.accType = accType;
+
     }
     public static void main(String[] args) {
         Bank_account coustmer1 =new Bank_account("Gaurav",14267,"Saving ");
