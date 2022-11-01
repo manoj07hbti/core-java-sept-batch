@@ -20,7 +20,7 @@ public class ORoperator {
 //TODO TRUE || FALSE= TRUE (1+0=1)
         ram=6;
 
-        if(brand=="LENOVO" || ram>=8){ // condition1-brand=="LENOVO"=true  condition 2- ram>=8: false
+        if(brand=="LENOVO" || ram>=8){ // condition1 -brand=="LENOVO"=true  condition 2- ram>=8: false
 
             System.out.println("Good Configuration Laptop : TRUE || FALSE= TRUE (1+0=1) ....");
         }

@@ -12,6 +12,7 @@ public class DemoArray {
 
        String cityArray [] =  {"Agra","Pune","Jaipur","Delhi","Mumbai","Goa"};
 
+
        //  read or get
        //TODO varName[INDEX];
 

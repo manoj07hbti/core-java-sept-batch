@@ -3,7 +3,7 @@ package conditional_statements;
 public class DemoSwitch {
     public static void main(String[] args) {
 
-        int day=9;
+        int day=4;
 
         switch (day){
 

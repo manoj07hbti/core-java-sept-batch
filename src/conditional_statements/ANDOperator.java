@@ -42,7 +42,7 @@ public class ANDOperator {
 
 //FALSE&FALSE= FALSE(0X0=0)
 
-        age=12;
+        age=25;
         city="Delhi";
 
         if(age>=18 && city=="AGRA"){
