@@ -9,7 +9,6 @@ public class Demo_College {
 
     // parameterized constructor
 
-
     public Demo_College(String college, String branch, String HOD, int total_students) {
         this.college = college;
         this.branch = branch;
