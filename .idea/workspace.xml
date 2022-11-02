@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="Member Function or Method programs">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Method_return_type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Method_return_type2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/PrimeNumber_return_type.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
     </list>
@@ -42,20 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Book">
-    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.BankAccount" />
-      <module name="core-java-sept-batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="khushi_gautam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Calculator2">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Book" />
       <module name="core-java-sept-batch" />
@@ -69,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Calculator" />
+    <configuration name="Calculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Calculator2" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="khushi_gautam.method.BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.BankAccount" />
+    <configuration name="Method_return_type" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Method_return_type" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.person" />
+    <configuration name="Method_return_type2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Method_return_type2" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.*" />
+          <option name="PATTERN" value="khushi_gautam.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber_return_type" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.PrimeNumber_return_type" />
+      <module name="core-java-sept-batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="khushi_gautam.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator2" />
+        <item itemvalue="Application.PrimeNumber_return_type" />
+        <item itemvalue="Application.Method_return_type2" />
+        <item itemvalue="Application.Method_return_type" />
         <item itemvalue="Application.Book" />
-        <item itemvalue="Application.khushi_gautam.method.BankAccount" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.BankAccount" />
-        <item itemvalue="Application.person" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667322859470</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Member Function or Method programs Book">
+      <created>1667368039033</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667368039033</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,6 +247,7 @@
     <MESSAGE value="table.java" />
     <MESSAGE value="parameterized constructor program" />
     <MESSAGE value="Member Function or Method programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Member Function or Method programs" />
+    <MESSAGE value="Member Function or Method programs Book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Member Function or Method programs Book" />
   </component>
 </project>
