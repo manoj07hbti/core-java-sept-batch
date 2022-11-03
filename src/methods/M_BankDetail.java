@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class M_BankDetail {
     String accname;
     String addr;
-    int balance;
+    long balance;
     long mobNo;
 
     Scanner sa = new Scanner(System.in);
@@ -38,7 +38,7 @@ public class M_BankDetail {
     }
 
     public void updateMobileNumber(){
-       long balance = sa.nextLong();
+        long mobNo = sa.nextLong();
         System.out.println("Update Mobile Number :" +mobNo);
     }
 
