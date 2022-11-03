@@ -16,10 +16,12 @@ public class CalculatorReturnType {
 
     public static void main(String[] args) {
 
-        CalculatorReturnType obj= new CalculatorReturnType();
+      CalculatorReturnType obj= new CalculatorReturnType();
 
       int result=  obj.addition();
       System.out.println("SUM is "+result);
+
+
 
     }
 
