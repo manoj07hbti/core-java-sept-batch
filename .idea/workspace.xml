@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="Member Function or Method programs">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator_param.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Name_param.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/PrimeNumber_return_type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Square_Param.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Voting_list.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
@@ -39,14 +35,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Voting_list">
     <configuration name="Calculator_param" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Calculator_param" />
@@ -244,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667411051641</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Member Function or Method programs">
+      <created>1667553579310</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667553579310</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
