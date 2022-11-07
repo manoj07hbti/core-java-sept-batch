@@ -21,7 +21,6 @@ public double div(int a, int b){
             while (x) {
                 Scanner sc = new Scanner(System.in);
                 User_input_calculator obj = new User_input_calculator();
-                boolean b1;
                 System.out.println("Please Choose 1 operation, " + "\n" + "1: addition" + "\n" + "2: subtraction" + "\n" + "3: multiplication" + "\n" + "4: division");
                 int option = sc.nextInt();
                 if (option<=4) {
