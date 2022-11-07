@@ -25,19 +25,21 @@ public class CalciMe {
     public static void main(String[] args) {
         int result;
         int choice;
+        int a;
+        int b;
 
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the Value of a");
-        int a = sc.nextInt();
-        System.out.println("Enter the Value of b");
-        int b = sc.nextInt();
+        int var =1 ;
         CalciMe cm = new CalciMe();
-        System.out.println("Enter the");
-        choice = sc.nextInt();
-        int var ;
 
         do {
-
+            Scanner sc = new Scanner(System.in);
+            System.out.println("Enter the Value of a");
+            a = sc.nextInt();
+            System.out.println("Enter the Value of b");
+            b = sc.nextInt();
+            System.out.println("Enter The Operation You Perform 1:Add 2:Subtract 3:Multiply 4:Divide");
+            choice = sc.nextInt();
+            System.out.println("Enter The Operation You Perform " +choice);
             switch (choice) {
                 case 1:
                     result = cm.addition(a, b);
@@ -59,9 +61,10 @@ public class CalciMe {
                     System.out.println("Invalid choice by user");
 
             }
+            System.out.println( "If You want to entered Again Press: 1 Else for Exit Press any key :");
             var= sc.nextInt();
-            System.out.println( "You want to entered   :" +var);
+            System.out.println( "You Press   :" +var);
         }
-        while (var != 1 ) ;
+        while (var== 1 ) ;
     }
 }
