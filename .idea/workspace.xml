@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="Member Function or Method programs">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator_Next.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/method_calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator_Next.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator_Next.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667569305815</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Calculator_Next">
+      <created>1667635014036</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667635014036</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,8 +274,9 @@
     <MESSAGE value="table.java" />
     <MESSAGE value="parameterized constructor program" />
     <MESSAGE value="Member Function or Method programs Book" />
-    <MESSAGE value="Member Function or Method programs" />
     <MESSAGE value="voting param" />
-    <option name="LAST_COMMIT_MESSAGE" value="voting param" />
+    <MESSAGE value="Member Function or Method programs" />
+    <MESSAGE value="Calculator_Next" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator_Next" />
   </component>
 </project>
