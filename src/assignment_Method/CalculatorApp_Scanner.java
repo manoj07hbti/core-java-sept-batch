@@ -22,30 +22,28 @@ public class CalculatorApp_Scanner {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to Calculator App: Please Enter Your Choice 1:Addition ,2:Subtraction , 3:division , 4:Multiplication");
         int choice = scanner.nextInt();
-
-
         System.out.println("Please Enter Value of a");
         int a = scanner.nextInt();
         System.out.println("Please Enter Value of b");
         int b = scanner.nextInt();
         int result;
-
+        CalculatorApp_Scanner obj = new CalculatorApp_Scanner();
         switch (choice){
-            case 1: CalculatorApp_Scanner obj = new CalculatorApp_Scanner();
+            case 1:
                 result = obj.add(a,b);
                 System.out.println("Addition of a and b  is : " +result);
                 break ;
-            case 2: CalculatorApp_Scanner obj1 = new CalculatorApp_Scanner();
-            result = obj1.sub(a,b);
+            case 2:
+            result = obj.sub(a,b);
             System.out.println("Subtraction of a and b  is : " +result);
                 break ;
-            case 3: CalculatorApp_Scanner obj2 = new CalculatorApp_Scanner();
-                result = obj2.div(a,b);
-                System.out.println("Addition of a and b  is : " +result);
+            case 3:
+                result = obj.div(a,b);
+                System.out.println("Devision of a and b  is : " +result);
                 break ;
-            case 4: CalculatorApp_Scanner obj3 = new CalculatorApp_Scanner();
-                result = obj3.multi(a,b);
-                System.out.println("Addition of a and b  is : " +result);
+            case 4:
+                result = obj.multi(a,b);
+                System.out.println("Multiplication of a and b  is : " +result);
                 break ;
             default:
                 System.out.println("Please Enter Right Choice Between 1 -4");
