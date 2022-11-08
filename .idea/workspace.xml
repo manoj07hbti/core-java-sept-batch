@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="Member Function or Method programs">
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Percentage/array_method.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/method_calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator_Next.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator_Next.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +44,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculator_Next">
+  <component name="RunManager" selected="Application.array_method">
     <configuration name="Calculator_Next" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Calculator_Next" />
-      <module name="core-java-sept-batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="khushi_gautam.method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculator_param" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Calculator_param" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="array_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Percentage.array_method" />
+      <module name="core-java-sept-batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="khushi_gautam.method.Percentage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.array_method" />
         <item itemvalue="Application.Calculator_Next" />
         <item itemvalue="Application.Voting_list" />
         <item itemvalue="Application.Name_param" />
         <item itemvalue="Application.Square_Param" />
-        <item itemvalue="Application.Calculator_param" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667635014036</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="calculator next program">
+      <created>1667827748004</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667827748004</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,6 +284,7 @@
     <MESSAGE value="voting param" />
     <MESSAGE value="Member Function or Method programs" />
     <MESSAGE value="Calculator_Next" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator_Next" />
+    <MESSAGE value="calculator next program" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator next program" />
   </component>
 </project>
