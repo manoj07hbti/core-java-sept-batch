@@ -27,22 +27,23 @@ public class CalculatorApp_Scanner {
         System.out.println("Please Enter Value of b");
         int b = scanner.nextInt();
         int result;
+        CalculatorApp_Scanner obj = new CalculatorApp_Scanner();
 
         switch (choice){
-            case 1: CalculatorApp_Scanner obj = new CalculatorApp_Scanner();
+            case 1:
                 result = obj.add(a,b);
                 System.out.println("Addition of a and b  is : " +result);
                 break ;
-            case 2: CalculatorApp_Scanner obj1 = new CalculatorApp_Scanner();
-            result = obj1.sub(a,b);
+            case 2:
+            result = obj.sub(a,b);
             System.out.println("Subtraction of a and b  is : " +result);
                 break ;
-            case 3: CalculatorApp_Scanner obj2 = new CalculatorApp_Scanner();
-                result = obj2.div(a,b);
+            case 3:
+                result = obj.div(a,b);
                 System.out.println("Addition of a and b  is : " +result);
                 break ;
-            case 4: CalculatorApp_Scanner obj3 = new CalculatorApp_Scanner();
-                result = obj3.multi(a,b);
+            case 4:
+                result = obj.multi(a,b);
                 System.out.println("Addition of a and b  is : " +result);
                 break ;
             default:
