@@ -22,8 +22,6 @@ public class CalculatorApp_Scanner {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to Calculator App: Please Enter Your Choice 1:Addition ,2:Subtraction , 3:division , 4:Multiplication");
         int choice = scanner.nextInt();
-
-
         System.out.println("Please Enter Value of a");
         int a = scanner.nextInt();
         System.out.println("Please Enter Value of b");
