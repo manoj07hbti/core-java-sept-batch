@@ -10,6 +10,7 @@ public class calculator {
             System.out.println("Please enter first number");
             int b= sc.nextInt();
             System.out.println("Please enter second number");
+
             int c=sc.nextInt();
             int d=b+c;
             System.out.println("Your answer is :"+' '+d);
@@ -37,7 +38,7 @@ public class calculator {
             int k= sc.nextInt();
             System.out.println("Please enter second number");
             int l=sc.nextInt();
-            int m=k/l;
+           double m=(double)k/l;
             System.out.println("Your answer is :"+' '+m);
         }
         else if(a!=1 || a!=2 || a!=3 ||  a!=4){
