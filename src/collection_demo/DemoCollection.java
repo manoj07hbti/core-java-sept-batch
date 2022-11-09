@@ -21,6 +21,7 @@ public class DemoCollection {
         list.add(33); //      4 INDEX
         list.add(3242.7);//   5 INDEX
 
+        list.add(1,"NCR");
         System.out.println("Reading list at 0 INDEX :"+list.get(0));
         System.out.println("Reading list at 3 INDEX :"+list.get(3));
         System.out.println("Reading list at 1 INDEX :"+list.get(1));
@@ -30,7 +31,7 @@ public class DemoCollection {
 
         for(int i=0; i <list.size(); i++){
 
-            System.out.println("Printing list in loop : "+list.get(i));
+            System.out.println("Printing list in loop : "+list.get(i)+ " at INDEX: "+i);
         }
 
         // Advanced for loop  for (DataType var : array/collection){CODE}
