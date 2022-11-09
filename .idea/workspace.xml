@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="Member Function or Method programs">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Percentage/array_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/collection_firstmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Real_calculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/method/method_calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
@@ -44,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.array_method">
+  <component name="RunManager" selected="Application.collection_firstmethod">
     <configuration name="Calculator_Next" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Calculator_Next" />
       <module name="core-java-sept-batch" />
@@ -58,21 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Name_param" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Name_param" />
-      <module name="core-java-sept-batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="khushi_gautam.method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Square_Param" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Square_Param" />
+    <configuration name="Real_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Real_calculator" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
@@ -110,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="collection_firstmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.collection_firstmethod" />
+      <module name="core-java-sept-batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="khushi_gautam.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.array_method" />
+        <item itemvalue="Application.collection_firstmethod" />
         <item itemvalue="Application.Calculator_Next" />
+        <item itemvalue="Application.Real_calculator" />
+        <item itemvalue="Application.array_method" />
         <item itemvalue="Application.Voting_list" />
-        <item itemvalue="Application.Name_param" />
-        <item itemvalue="Application.Square_Param" />
       </list>
     </recent_temporary>
   </component>
@@ -269,8 +270,34 @@
       <option name="project" value="LOCAL" />
       <updated>1667827748004</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="array&#10;user input">
+      <created>1667883656465</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1667883656465</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="127" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="132" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="131" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
@@ -285,6 +312,7 @@
     <MESSAGE value="Member Function or Method programs" />
     <MESSAGE value="Calculator_Next" />
     <MESSAGE value="calculator next program" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator next program" />
+    <MESSAGE value="array&#10;user input" />
+    <option name="LAST_COMMIT_MESSAGE" value="array&#10;user input" />
   </component>
 </project>
