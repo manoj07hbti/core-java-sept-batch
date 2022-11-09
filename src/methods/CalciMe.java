@@ -1,4 +1,4 @@
-package Methods;
+package methods;
 
 import java.util.Scanner;
 
@@ -23,7 +23,7 @@ public class CalciMe {
     }
 
     public static void main(String[] args) {
-        int result;
+        int result = 0;
         int choice;
         int a;
         int b;
@@ -42,15 +42,15 @@ public class CalciMe {
             System.out.println("Enter The Operation You Perform " +choice);
             switch (choice) {
                 case 1:
-                    result = cm.addition(a, b);
+                    result += cm.addition(a, b);
                     System.out.println("Addition is :" + result);
                     break;
                 case 2:
-                    result = cm.subtraction(a, b);
+                    result -= cm.subtraction(a, b);
                     System.out.println("subtraction is :" + result);
                     break;
                 case 3:
-                    result = cm.multiplication(a, b);
+                    result *= cm.multiplication(a, b);
                     System.out.println("multiplication is :" + result);
                     break;
                 case 4:
@@ -63,7 +63,7 @@ public class CalciMe {
             }
             System.out.println( "If You want to entered Again Press: 1 Else for Exit Press any key :");
             var= sc.nextInt();
-            System.out.println( "You Press   :" +var);
+            System.out.println( "You Press   :"+var);
         }
         while (var== 1 ) ;
     }
