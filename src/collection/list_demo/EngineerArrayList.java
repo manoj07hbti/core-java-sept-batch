@@ -26,6 +26,9 @@ public class EngineerArrayList {
     public static void main(String[] args) {
         EngineerArrayList obj=new EngineerArrayList();
         ArrayList<Engineer> engi=obj.createEngineerList();
+
+        engi.get(0).setBranch("Information Technology");
+
         for (int i=0; i<engi.size(); i++){
             System.out.println("Print name: "+engi.get(i).getName()+" Branch: "+engi.get(i).getBranch()+" Batch: "+engi.get(i).getBatch());
         }
