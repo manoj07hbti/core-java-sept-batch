@@ -1,4 +1,4 @@
-package Package_9_Collection_framework;
+package Package_9_Collection_framework.arraylist;
 
 import model.Employee;
 
