@@ -13,8 +13,10 @@ public class DemoArrayList {
        course.add("Java");
        course.add("Spring");
        course.add("Spring Boot");
+       course.add("Spring Boot");
        //course.add(33);  we can not add any other data
        course.add("CLoud");
+       course.add("Spring");
 
        return course;
    }

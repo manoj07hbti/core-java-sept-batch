@@ -39,6 +39,9 @@ public class StudentArrayList {
 
         ArrayList <Student> studentArrayList=  obj.createStudentList();
 
+        studentArrayList.get(0).setSection("Information Technology");
+        studentArrayList.get(1).setSection("Computer Science");
+
         for(int i=0; i<studentArrayList.size(); i++){
 
             System.out.println("Printing "+studentArrayList.get(i).getName() +" RollNo: "+studentArrayList.get(i).getRollNo()+ " Section: "+ studentArrayList.get(i).getSection());
