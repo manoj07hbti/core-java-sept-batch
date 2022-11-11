@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="Member Function or Method programs">
+    <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="double HashSet">
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/DoctorArrayList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/doctor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/College.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/College.java" afterDir="false" />
@@ -15,6 +16,8 @@
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/collection_firstmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/collection_firstmethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/country.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/democountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/democountry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
@@ -59,7 +62,7 @@
       <recent name="khushi_gautam.collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DoubleHashSet">
+  <component name="RunManager" selected="Application.collection_firstmethod">
     <configuration name="DemoArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.list.DemoArrayList" />
       <module name="core-java-sept-batch" />
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.collection_firstmethod" />
         <item itemvalue="Application.DoubleHashSet" />
         <item itemvalue="Application.employeeArrayList" />
         <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.DemoArrayList" />
-        <item itemvalue="Application.collection_firstmethod" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668151953056</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="double HashSet">
+      <created>1668152168086</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1668152168086</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,6 +369,7 @@
     <MESSAGE value="employeeArrayList&#10;DemoArrayList" />
     <MESSAGE value="Int HashSet&#10;Double HashSet" />
     <MESSAGE value="setter method in employee" />
-    <option name="LAST_COMMIT_MESSAGE" value="setter method in employee" />
+    <MESSAGE value="double HashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="double HashSet" />
   </component>
 </project>

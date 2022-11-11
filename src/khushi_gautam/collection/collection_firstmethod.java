@@ -39,6 +39,13 @@ public class collection_firstmethod {
 
         System.out.println(" ");
 
+        //todo get index method
+        System.out.println("get index");
+        System.out.println(list.indexOf("AGRA"));
+        System.out.println(list.indexOf(24));
+
+        System.out.println(" ");
+
         // todo size method with for loop
         System.out.println("Printing list with for loop");
         for (int i=0;i<list.size();i++){
