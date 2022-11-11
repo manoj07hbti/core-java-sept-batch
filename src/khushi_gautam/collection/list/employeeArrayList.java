@@ -24,10 +24,14 @@ public class employeeArrayList {
     public static void main(String[] args) {
         employeeArrayList obj= new employeeArrayList();
         ArrayList<Employee> employeeArrayList = obj.employeeList();
+
         for (int i=0;i<employeeArrayList.size();i++){
             System.out.println(employeeArrayList.get(i).getName()+", company - "+employeeArrayList.get(i).getCompany()
                     +" , experience-  "+employeeArrayList.get(i).getExperience()+" , Post- "+employeeArrayList.get(i).getPost());
 
         }
+        //todo use setter for future changing data command
+        employeeArrayList.get(0).setPost("HR");
+        employeeArrayList.get(4).setCompany("goggle");
     }
 }
