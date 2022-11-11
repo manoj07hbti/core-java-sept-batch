@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="double HashSet">
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoctorHashSet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/DoctorArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/doctor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/BankAccount.java" afterDir="false" />
@@ -17,7 +17,6 @@
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/building.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/collection_firstmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/collection_firstmethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/country.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/democountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/democountry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
@@ -37,6 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,6 +55,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -62,13 +67,13 @@
       <recent name="khushi_gautam.collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.collection_firstmethod">
-    <configuration name="DemoArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.list.DemoArrayList" />
+  <component name="RunManager" selected="Application.DoctorHashSet">
+    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DemoHashSet" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.list.*" />
+          <option name="PATTERN" value="khushi_gautam.collection.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DemoHashSet" />
+    <configuration name="DoctorHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DoctorHashSet" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoctorHashSet" />
         <item itemvalue="Application.collection_firstmethod" />
         <item itemvalue="Application.DoubleHashSet" />
         <item itemvalue="Application.employeeArrayList" />
         <item itemvalue="Application.DemoHashSet" />
-        <item itemvalue="Application.DemoArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668152168086</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="get index">
+      <created>1668153132194</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1668153132194</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,6 +350,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
               <option name="COLUMN_ID_WIDTH">
                 <map>
                   <entry key="Table.Default.Author.ColumnIdWidth" value="127" />
@@ -370,6 +393,7 @@
     <MESSAGE value="Int HashSet&#10;Double HashSet" />
     <MESSAGE value="setter method in employee" />
     <MESSAGE value="double HashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="double HashSet" />
+    <MESSAGE value="get index" />
+    <option name="LAST_COMMIT_MESSAGE" value="get index" />
   </component>
 </project>
