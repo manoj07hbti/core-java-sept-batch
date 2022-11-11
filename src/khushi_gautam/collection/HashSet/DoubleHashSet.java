@@ -9,6 +9,8 @@ public class DoubleHashSet {
         d.add(23.1);
         d.add(49.8);
         d.add(12.5);
+        d.add(23.1);
+        d.add(49.8);
         return d;
     }
 
