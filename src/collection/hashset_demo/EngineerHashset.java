@@ -9,8 +9,11 @@ public class EngineerHashset {
         HashSet<Engineer> engineer=new HashSet<>();
 
         Engineer enginer1=new Engineer("Lucky", "IT", 02);
+        System.out.println("Printing Hashcode: "+enginer1.hashCode());
         Engineer enginer2=new Engineer("Vicky", "CS", 03);
+        System.out.println("Printing Hashcode: "+enginer2.hashCode());
         Engineer enginer3=new Engineer("Lucky", "IT", 02);
+        System.out.println("Printing Hashcode: "+enginer3.hashCode());
 
         engineer.add(enginer1);
         engineer.add(enginer2);

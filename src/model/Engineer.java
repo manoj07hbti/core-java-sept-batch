@@ -1,9 +1,25 @@
 package model;
 
+import java.util.Objects;
+
 public class Engineer {
     String name;
     String branch;
     int batch;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Engineer engineer = (Engineer) o;
+        return batch == engineer.batch && name.equals(engineer.name) && branch.equals(engineer.branch);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, branch, batch);
+    }
+
     //parameterized constructor
     public Engineer(String name, String branch, int batch) {
         this.name = name;
