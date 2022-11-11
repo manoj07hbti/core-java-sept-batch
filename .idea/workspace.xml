@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="Member Function or Method programs">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/DemoArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DemoHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/DoctorArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/employeeArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
@@ -61,20 +62,7 @@
       <recent name="khushi_gautam.collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.employeeArrayList">
-    <configuration name="Calculator_Next" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Calculator_Next" />
-      <module name="core-java-sept-batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="khushi_gautam.method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DoubleHashSet">
     <configuration name="DemoArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.list.DemoArrayList" />
       <module name="core-java-sept-batch" />
@@ -88,12 +76,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Real_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.method.Real_calculator" />
+    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DemoHashSet" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.method.*" />
+          <option name="PATTERN" value="khushi_gautam.collection.HashSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DoubleHashSet" />
+      <module name="core-java-sept-batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="khushi_gautam.collection.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleHashSet" />
+        <item itemvalue="Application.DemoHashSet" />
         <item itemvalue="Application.employeeArrayList" />
         <item itemvalue="Application.DemoArrayList" />
         <item itemvalue="Application.collection_firstmethod" />
-        <item itemvalue="Application.Calculator_Next" />
-        <item itemvalue="Application.Real_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667977298452</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="employeeArrayList&#10;DemoArrayList">
+      <created>1668086555496</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668086555496</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +345,7 @@
     <MESSAGE value="calculator next program" />
     <MESSAGE value="array&#10;user input" />
     <MESSAGE value="Add , get,size method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add , get,size method" />
+    <MESSAGE value="employeeArrayList&#10;DemoArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="employeeArrayList&#10;DemoArrayList" />
   </component>
 </project>
