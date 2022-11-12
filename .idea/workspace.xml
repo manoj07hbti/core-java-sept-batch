@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="double HashSet">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoctorHashSet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/DoctorArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
@@ -16,7 +14,9 @@
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoctorHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoctorHashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Doctor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/country.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/democountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/democountry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
@@ -341,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668153132194</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Doctor HashSet">
+      <created>1668189071107</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1668189071107</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,6 +363,17 @@
                 </map>
               </option>
               <option name="BEK_SORT_TYPE" value="1" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="khushi_gautam" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="TEXT_FILTER_SETTINGS">
                 <TextFilterSettings>
                   <option name="REGEX" value="true" />
@@ -369,6 +387,32 @@
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -394,6 +438,7 @@
     <MESSAGE value="setter method in employee" />
     <MESSAGE value="double HashSet" />
     <MESSAGE value="get index" />
-    <option name="LAST_COMMIT_MESSAGE" value="get index" />
+    <MESSAGE value="Doctor HashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Doctor HashSet" />
   </component>
 </project>
