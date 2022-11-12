@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="double HashSet">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/EmployeeHashSet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/list/DoctorArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/BankAccount.java" afterDir="false" />
@@ -16,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/building.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/model/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/country.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/democountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/democountry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
@@ -67,7 +65,20 @@
       <recent name="khushi_gautam.collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeHashSet">
+  <component name="RunManager" selected="Application.DoctorArrayList">
+    <configuration name="DoctorArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.list.DoctorArrayList" />
+      <module name="core-java-sept-batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="khushi_gautam.collection.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoctorHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DoctorHashSet" />
       <module name="core-java-sept-batch" />
@@ -120,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="employeeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.list.employeeArrayList" />
-      <module name="core-java-sept-batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoctorArrayList" />
         <item itemvalue="Application.EmployeeHashSet" />
         <item itemvalue="Application.DoctorHashSet" />
         <item itemvalue="Application.collection_firstmethod" />
         <item itemvalue="Application.DoubleHashSet" />
-        <item itemvalue="Application.employeeArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668233381224</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="EmployeeHashSet &#10;override">
+      <created>1668235270591</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1668235270591</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,6 +452,7 @@
     <MESSAGE value="get index" />
     <MESSAGE value="Doctor HashSet" />
     <MESSAGE value="DoctorHashSet override" />
-    <option name="LAST_COMMIT_MESSAGE" value="DoctorHashSet override" />
+    <MESSAGE value="EmployeeHashSet &#10;override" />
+    <option name="LAST_COMMIT_MESSAGE" value="EmployeeHashSet &#10;override" />
   </component>
 </project>
