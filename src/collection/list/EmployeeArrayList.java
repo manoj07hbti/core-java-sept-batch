@@ -11,8 +11,8 @@ public class EmployeeArrayList {
 
         ArrayList<Employee> employeeArrayList = new ArrayList<Employee>();
 
-        Employee emp1 = new Employee("Shivani", 12,23000,"TCS");
-        Employee emp2 = new Employee("Parth", 34,998999,"MAHINDRA");
+        Employee emp1 = new Employee("Shivani", 12000,"TCS");
+        Employee emp2 = new Employee("Parth", 34000,"MAHINDRA");
 
         employeeArrayList.add(emp1);
         employeeArrayList.add(emp2);
@@ -28,7 +28,7 @@ public class EmployeeArrayList {
 
         for(Employee var : employeeArrayList){
 
-            System.out.println("Printing employee name : " +var.getName()+ "   id  : " +var.getId()+
+            System.out.println("Printing employee name : " +var.getName()+ "   id  : " +var.getSalary()+
                     "    salary  : "  +var.getSalary()+ "   company  :  "+var.getCompany());
 
         }

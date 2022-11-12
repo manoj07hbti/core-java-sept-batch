@@ -1,7 +1,5 @@
 package collection.list;
 
-
-import modal.Employee;
 import modal.Restaurant;
 
 import java.util.ArrayList;
@@ -32,7 +30,7 @@ public class RestaurantArrayList {
         for (Restaurant var : restaurantArrayList) {
 
             System.out.println("Printing Restaurant data :--- namme  :" + var.getName() + "  address :"
-                    + var.getAddress() + "   type  : " + var.getType() + " code  : " + var.getCode());
+                    + var.getLocation() + "   type  : " + var.getType() + " code  : " + var.getId());
         }
     }
 
