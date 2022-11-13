@@ -1,10 +1,25 @@
 package modal;
 
+import java.util.Objects;
+
 public class Doctor {
 
     String name;
     int id;
     String location;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Doctor doctor = (Doctor) o;
+        return id == doctor.id && name.equals(doctor.name) && location.equals(doctor.location);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, id, location);
+    }
 
     public Doctor(String name, int id, String location) {
         this.name = name;

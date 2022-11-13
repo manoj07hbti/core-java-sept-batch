@@ -1,11 +1,26 @@
 package modal;
 
+import java.util.Objects;
+
 public class Restaurant {
 
     String name;
     String location;
     String type;
     int id;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Restaurant that = (Restaurant) o;
+        return id == that.id && name.equals(that.name) && location.equals(that.location) && type.equals(that.type);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, location, type, id);
+    }
 
     public Restaurant(String name, String location, String type, int id) {
         this.name = name;

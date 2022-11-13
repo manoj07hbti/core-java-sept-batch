@@ -1,10 +1,25 @@
 package modal;
 
+import java.util.Objects;
+
 public class Employee {
 
     String name;
     int salary;
     String company;
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return salary == employee.salary && name.equals(employee.name) && company.equals(employee.company);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, salary, company);
+    }
 
     public Employee(String name, int salary, String company) {
         this.name = name;
