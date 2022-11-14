@@ -13,6 +13,7 @@ public class DemoHashSet {
         num.add(21);
         num.add(43);
         num.add(61);
+        num.add(51);
         return num;
     }
     public static void main(String[] args) {
