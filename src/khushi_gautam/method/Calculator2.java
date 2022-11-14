@@ -43,7 +43,7 @@ public class Calculator2 {
 
         int output2=obj.multiplication();
         System.out.println(output2);
-        
+
         int output3=obj.division();
         System.out.println(output3);
 

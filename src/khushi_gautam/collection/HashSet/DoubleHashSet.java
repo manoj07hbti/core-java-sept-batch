@@ -22,5 +22,6 @@ public class DoubleHashSet {
         for (double var: d){
             System.out.println(var);
         }
+
     }
 }

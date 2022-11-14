@@ -1,6 +1,4 @@
-package khushi_gautam;
-
-import java.util.concurrent.Callable;
+package khushi_gautam.array;
 
 public class College {
     String college;

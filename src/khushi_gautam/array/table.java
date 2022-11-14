@@ -1,4 +1,4 @@
-package khushi_gautam;
+package khushi_gautam.array;
 
 public class table {
     String name = "Table";
