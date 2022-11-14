@@ -8,6 +8,7 @@ public class HashmapAssign {
     public HashMap<String, String> createStringHashmap(){
         HashMap<String, String> stringMap=new HashMap<>();
 
+
         stringMap.put("Lucky", "Nikhlesh");
         stringMap.put("Vicky", "Vivek");
         stringMap.put("Hunny", "Avinash");
