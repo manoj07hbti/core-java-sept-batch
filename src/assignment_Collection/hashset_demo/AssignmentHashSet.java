@@ -49,7 +49,7 @@ public class AssignmentHashSet {
         }
 
         AssignmentHashSet obj1  = new AssignmentHashSet();
-        HashSet <Integer> code= obj1 .createHashSetCode();
+        HashSet <Integer> code= obj1.createHashSetCode();
         for(Integer var: code){
             System.out.println("Printing cities code : " + var);
         }
