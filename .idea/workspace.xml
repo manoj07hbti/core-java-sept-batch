@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="double HashSet">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DemoLinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/City.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/College.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/College.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/Para_Engineers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/Para_Engineers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DoubleHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/democountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/democountry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/method/Calculator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/array/table.java" afterDir="false" />
-    </list>
+    <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -407,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668431008490</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Linked hashSet">
+      <created>1668442171930</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1668442171930</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,6 +520,7 @@
     <MESSAGE value="EmployeeHashSet &#10;override" />
     <MESSAGE value="DoctorArrayList" />
     <MESSAGE value="check out" />
-    <option name="LAST_COMMIT_MESSAGE" value="check out" />
+    <MESSAGE value="Linked hashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linked hashSet" />
   </component>
 </project>
