@@ -10,9 +10,13 @@ public class Employee_hashset {
         Employee emp1 = new Employee("Sachin", 23,25000.25);
         Employee emp2=new Employee("rahul",24,20000.48);
         Employee emp3 = new Employee("saurabh",25,18000.60);
+        Employee emp4 = new Employee("Gaurav",25,18000.60);
+        Employee emp5 = new Employee("saurabh",25,18000.60);
         EmpDetails.add(emp1);
         EmpDetails.add(emp2);
         EmpDetails.add(emp3);
+        EmpDetails.add(emp4);
+        EmpDetails.add(emp5);
         return EmpDetails;
     }
 
