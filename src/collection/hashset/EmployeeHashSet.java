@@ -41,7 +41,7 @@ public class EmployeeHashSet {
         for ( Employee var: EmployeeHashSet)
 
 
-            System.out.println("Printing "+var.getName()+ "  Rollno : "+var.getAge()+ "  Age : "+var.getAge());
+            System.out.println("Printing "+var.getName()+ "  Rollno : "+var.getAge()+ "  Age : "+var.getBranch());
     }
 
 

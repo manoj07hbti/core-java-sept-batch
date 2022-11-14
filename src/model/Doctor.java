@@ -2,7 +2,7 @@ package model;
 
 import java.util.Objects;
 
-public class Employee {
+public class Doctor {
 
     String name;
     int age;
@@ -12,8 +12,8 @@ public class Employee {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Employee employee = (Employee) o;
-        return age == employee.age && Objects.equals(name, employee.name) && Objects.equals(Branch, employee.Branch);
+        Doctor doctor = (Doctor) o;
+        return age == doctor.age && name.equals(doctor.name) && Branch.equals(doctor.Branch);
     }
 
     @Override
@@ -21,8 +21,7 @@ public class Employee {
         return Objects.hash(name, age, Branch);
     }
 
-    public Employee(String name, int age, String branch) {
-
+    public Doctor(String name, int age, String branch) {
         this.name = name;
         this.age = age;
         Branch = branch;
@@ -52,7 +51,3 @@ public class Employee {
         Branch = branch;
     }
 }
-
-
-
-
