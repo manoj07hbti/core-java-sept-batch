@@ -6,6 +6,7 @@ import java.util.Set;
 public class Hashmap_double_string {
     public  HashMap<Double, String> chapters(){
         HashMap<Double, String> chapter = new HashMap<>();
+        chapter.put(null,"Nothing");
         chapter.put(4.1,"Polymorphism");
         chapter.put(4.2,"Encapsulation");
         chapter.put(4.3,"Abstract");
@@ -17,7 +18,7 @@ public class Hashmap_double_string {
         HashMap<Double, String> chapter = obj.chapters();
         Set<Double> keys = chapter.keySet();
         for (Double elements: keys ){
-            System.out.println("chapter number: " +elements + " "+chapter.get(elements));
+            System.out.println("chapter number: " +elements + "-"+chapter.get(elements));
         }
     }
 }

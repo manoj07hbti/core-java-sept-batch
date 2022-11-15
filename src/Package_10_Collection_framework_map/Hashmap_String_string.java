@@ -10,6 +10,7 @@ public class Hashmap_String_string {
     info.put("qualification", "B.Tech");
     info.put("branch", "Electrical");
     info.put("city", "Agra");
+        info.put(null, "aaachin");
     return info;
 }
 
