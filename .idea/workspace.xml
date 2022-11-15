@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/Hash_Map/Double_HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/Hash_Map/Double_String_HashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,20 +85,7 @@
       <recent name="khushi_gautam.collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Double_HashMap">
-    <configuration name="DemoArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.list.DemoArrayList" />
-      <module name="core-java-sept-batch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Double_String_HashMap">
     <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DemoHashSet" />
       <module name="core-java-sept-batch" />
@@ -139,6 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Double_String_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.Hash_Map.Double_String_HashMap" />
+      <module name="core-java-sept-batch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="khushi_gautam.collection.Hash_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="String_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.Hash_Map.String_HashMap" />
       <module name="core-java-sept-batch" />
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Double_String_HashMap" />
         <item itemvalue="Application.Double_HashMap" />
         <item itemvalue="Application.String_HashMap" />
         <item itemvalue="Application.DemoLinkedHashSet" />
         <item itemvalue="Application.DemoHashSet" />
-        <item itemvalue="Application.DemoArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668446369981</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Double_HashMap">
+      <created>1668484934269</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1668484934269</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="khushi_Array&#10;city" />
     <MESSAGE value="State.java" />
     <MESSAGE value="building" />
     <MESSAGE value="table.java" />
@@ -539,6 +544,7 @@
     <MESSAGE value="Linked hashSet" />
     <MESSAGE value="LinkedHashSet Doctor" />
     <MESSAGE value="String_HashMap.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="String_HashMap.java" />
+    <MESSAGE value="Double_HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Double_HashMap" />
   </component>
 </project>
