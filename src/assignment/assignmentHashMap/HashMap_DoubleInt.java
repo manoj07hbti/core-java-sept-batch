@@ -32,7 +32,7 @@ public class HashMap_DoubleInt {
         Set <Double> keys  = studentMarks.keySet() ;
         for(double var: keys ){
 
-            System.out.println("Printing Student Marks : " + studentMarks.get(keys));
+            System.out.println("Printing Student Marks : " + studentMarks.get(var));
 
         }
 

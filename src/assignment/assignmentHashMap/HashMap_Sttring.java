@@ -38,7 +38,7 @@ public class HashMap_Sttring {
 
         for (String var : keys){
 
-            System.out.println("Printing Keys In Map : " + studentInfo.get(keys));
+            System.out.println("Printing Keys In Map : " + studentInfo.get(var));
         }
 
 
