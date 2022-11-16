@@ -18,7 +18,7 @@ public class DemoHashMap {
         course.put(4,"Cloud");
         course.put(null,"PCF");
         course.put(1,"Java 8");
-
+        System.out.println(course);
 
 
       return course;
@@ -45,6 +45,18 @@ public class DemoHashMap {
             System.out.println("Printing map in loop "+course.get(var));
         }
 
+
+        HashMap<Double, String> map= new HashMap<>();
+
+        map.put(1.5,"FIRST");
+        map.put(1.3,"SECOND");
+        map.put(null,"Third");
+        map.put(null,"Four");
+        map.put(1.5,"1SECOND");
+        map.put(1.6,"2SECOND");
+        map.put(null,"Five");
+
+        System.out.println("*******"+map);
     }
 
 }
