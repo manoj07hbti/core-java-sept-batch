@@ -1,4 +1,4 @@
-package arithmetic_problems;
+package aj_arithmetic_problems;
 
 public class Cube {
     public static void main(String[] args) {

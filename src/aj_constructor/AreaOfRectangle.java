@@ -1,6 +1,6 @@
 package aj_constructor;
 
-public class AreaOfRectangle {
+ class AreaOfRectangle {
     int length;
     int width;
 
