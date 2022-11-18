@@ -17,8 +17,6 @@ public class Demo_TreeMap {
     public static void main(String[] args) {
         Demo_TreeMap obj= new Demo_TreeMap();
         TreeMap<Integer, String> demo= obj.getDemo();
-        for (Integer var:demo.keySet()){
-        }
         System.out.println("Printing key with value: "+demo);
         System.out.println(demo);
     }
