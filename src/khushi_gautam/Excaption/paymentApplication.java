@@ -21,7 +21,7 @@ public class paymentApplication {
             obj.makePayment(amount);
         }
         catch (AccountOpen pay){
-            pay.fillInStackTrace();
+            pay.printStackTrace();
         }
     }
 }
