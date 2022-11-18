@@ -36,6 +36,6 @@ public class Interview_Question {
         Interview_Question obj=new Interview_Question();
         obj.demo();
         obj.demo1(4,8);
-        obj.demo2(7,1);
+        obj.demo2(7,0);
     }
 }

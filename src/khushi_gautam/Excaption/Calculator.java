@@ -20,7 +20,7 @@ public class Calculator {
              num2 = a / b;
         }
         catch (Exception e){
-            System.out.println("Exception occured"+e);
+            System.out.println("Exception occurred"+e);
         }
         System.out.println("after divide");
         return num2;
