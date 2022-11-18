@@ -1,8 +1,6 @@
 package obbject_oriented_program.inheritance;
 
 public class Child extends Parent {
-    //OVERRIDING
-
     @Override
     public void A1() {
         System.out.println("I can Change the properties of Parent");
@@ -16,3 +14,4 @@ public class Child extends Parent {
         obj.A3();
     }
 }
+
