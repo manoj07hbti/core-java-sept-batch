@@ -6,7 +6,8 @@ public class VotingApplication {
     public void doVote(int age) throws AgeNotEligibleException{
         if (age<18){
             throw new AgeNotEligibleException("Voter is less than 18 so not eligible for vote");
-        } else {
+        }
+        else {
             System.out.println("welcome to vote");
         }
     }
