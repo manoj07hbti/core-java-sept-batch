@@ -4,10 +4,10 @@ import class_and_object.Laptop;
 
 public class City {
 
-    String city = "AGRA";
-    int no_of_person = 100000;
-    String place_in_agra = "TAJMAHAL, GURUDWARA, FATEHPURSEEKARI";
-    String state = "UP";
+    public String city = "AGRA";
+    public int no_of_person = 100000;
+    public String place_in_agra = "TAJMAHAL, GURUDWARA, FATEHPURSEEKARI";
+    public String state = "UP";
 
 
     public static void main(String[] args) {
