@@ -1,4 +1,4 @@
-package oops.abstraction.inheritance;
+package oops.inheritance;
 
 
 

@@ -1,6 +1,6 @@
 package model;
 
-import oops.abstraction.inheritance.DemoA;
+import oops.inheritance.DemoA;
 
 public class DemoC extends DemoA {
 
