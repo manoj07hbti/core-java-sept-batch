@@ -47,7 +47,7 @@ public class Country {
         String G4="Banwari lal Joshi";
         String G5=" T.V.Rajeshwar";
         System.out.println("Governors list");
-        System.out.println("---------------");
+        System.out.println("-------------------");
         System.out.println("1: "+G1);
         System.out.println("2: "+G2);
         System.out.println("3: "+G3);
