@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class CalculatorApp {
 
-    //static int result;
+    //static_demo int result;
 
 
     public int add(int a, int b){
