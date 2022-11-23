@@ -1,4 +1,4 @@
-package khushi_gautam.oops_abstraction;
+package khushi_gautam.oops.abstract_;
 
 public interface Demo_Interface {
     //todo interface abstract can not have body.it can not have body.

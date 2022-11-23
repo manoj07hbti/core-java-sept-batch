@@ -1,4 +1,4 @@
-package khushi_gautam.oops_abstraction.inheritance;
+package khushi_gautam.oops.inheritance;
 
 public class classB extends ClassA {
     public void m3(){

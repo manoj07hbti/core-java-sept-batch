@@ -1,4 +1,4 @@
-package khushi_gautam.oops_abstraction.inheritance;
+package khushi_gautam.oops.inheritance;
 
 public class State_District {
     public void UP_State(){

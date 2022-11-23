@@ -1,4 +1,4 @@
-package khushi_gautam.oops_abstraction.inheritance;
+package khushi_gautam.oops.inheritance;
 
 public class District extends State_District {
     public void block(){

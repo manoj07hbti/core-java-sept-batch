@@ -1,4 +1,4 @@
-package khushi_gautam.oops_abstraction;
+package khushi_gautam.oops.abstract_;
 
 public abstract class Demo_Abstract {
     //todo at least one method include its have
