@@ -1,6 +1,6 @@
 package khushi_gautam.oops.polymorphism;
 
-public class Country extends IndiaOverriding {
+public class Country {
     public void parliamentMembers() {
         String president = "Mrs.Dropati Murmu";
         String VicePresident = " Jagdeep Dhankar";
@@ -62,7 +62,7 @@ public class Country extends IndiaOverriding {
         obj.parliamentMembers(5,"list");
         obj.parliamentMembers("c");
         obj.parliamentMembers("state","name");
-        obj.india();
+
     }
 
 }
