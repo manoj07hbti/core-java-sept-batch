@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/Hash_Map/Double_String_HashMap.java" afterDir="false" />
+    <list default="true" id="1d6ca4e0-1b23-4218-99ed-608e53117534" name="Changes" comment="overrinding concept">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DemoLinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/khushi_gautam/collection/HashSet/DemoLinkedHashSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,17 +82,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="khushi_gautam.keywords.Static" />
+      <recent name="khushi_gautam.oops.polymorphism" />
       <recent name="khushi_gautam.collection.Hash_Map" />
       <recent name="khushi_gautam.collection.list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Double_String_HashMap">
-    <configuration name="DemoHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DemoHashSet" />
+  <component name="RunManager" selected="Application.DoctorArrayList">
+    <configuration name="Child_static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.keywords.Static.Child_static" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.HashSet.*" />
+          <option name="PATTERN" value="khushi_gautam.keywords.Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoLinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.HashSet.DemoLinkedHashSet" />
+    <configuration name="Country" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.oops.polymorphism.Country" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.HashSet.*" />
+          <option name="PATTERN" value="khushi_gautam.oops.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Double_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.Hash_Map.Double_HashMap" />
+    <configuration name="DoctorArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.list.DoctorArrayList" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.Hash_Map.*" />
+          <option name="PATTERN" value="khushi_gautam.collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Double_String_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.Hash_Map.Double_String_HashMap" />
+    <configuration name="IndiaOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.oops.polymorphism.IndiaOverriding" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.Hash_Map.*" />
+          <option name="PATTERN" value="khushi_gautam.oops.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="khushi_gautam.collection.Hash_Map.String_HashMap" />
+    <configuration name="static_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="khushi_gautam.keywords.Static.static_demo" />
       <module name="core-java-sept-batch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="khushi_gautam.collection.Hash_Map.*" />
+          <option name="PATTERN" value="khushi_gautam.keywords.Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Double_String_HashMap" />
-        <item itemvalue="Application.Double_HashMap" />
-        <item itemvalue="Application.String_HashMap" />
-        <item itemvalue="Application.DemoLinkedHashSet" />
-        <item itemvalue="Application.DemoHashSet" />
+        <item itemvalue="Application.DoctorArrayList" />
+        <item itemvalue="Application.Child_static" />
+        <item itemvalue="Application.static_demo" />
+        <item itemvalue="Application.IndiaOverriding" />
+        <item itemvalue="Application.Country" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +425,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668484934269</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="polymorphism overloading overrinding">
+      <created>1669186545998</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1669186545998</updated>
+    </task>
+    <task id="LOCAL-00038" summary="important keywords">
+      <created>1669271327239</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1669271327239</updated>
+    </task>
+    <task id="LOCAL-00039" summary="overrinding concept">
+      <created>1669271373121</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1669271373121</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -520,9 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="State.java" />
-    <MESSAGE value="building" />
-    <MESSAGE value="table.java" />
     <MESSAGE value="parameterized constructor program" />
     <MESSAGE value="Member Function or Method programs Book" />
     <MESSAGE value="voting param" />
@@ -545,6 +566,9 @@
     <MESSAGE value="LinkedHashSet Doctor" />
     <MESSAGE value="String_HashMap.java" />
     <MESSAGE value="Double_HashMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Double_HashMap" />
+    <MESSAGE value="polymorphism overloading overrinding" />
+    <MESSAGE value="important keywords" />
+    <MESSAGE value="overrinding concept" />
+    <option name="LAST_COMMIT_MESSAGE" value="overrinding concept" />
   </component>
 </project>

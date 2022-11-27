@@ -24,7 +24,7 @@ public class DemoLinkedHashSet {
         LinkedHashSet<Doctor> D = obj.createLinkedHashSet();
         for (Doctor var:D){
             System.out.println(var.getName()+" Hospital: "+ var.getHospital()
-                    +" exerience: "+ var.getExperience()+ ", post: "+var.getPost());
+                    +" experience: "+ var.getExperience()+ ", post: "+var.getPost());
         }
     }
 }
